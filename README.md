@@ -1,6 +1,6 @@
 # Vecchia-Inducing Points Full-Scale Approximation (VIF)
 
-In this repository, we provide the complete code for simulated and real-world experiments conducted in the paper "Vecchia-Inducing Points Full-Scale Approximations for Gaussian Processes". For details, refer to the script ```Generate_Simulated_Data.R```.
+In this repository, we provide the complete code for simulated and real-world experiments conducted in the paper "Vecchia-Inducing Points Full-Scale Approximations for Gaussian Processes". 
 
 The  methods for VIF approximations are implemented in the **GPBoost** package, available here: [https://github.com/fabsig/GPBoost](https://github.com/fabsig/GPBoost).
 
